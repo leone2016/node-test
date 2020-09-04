@@ -99,7 +99,7 @@ Antes de dar una definición y los requerimientos, es importante que conozcas de
 - [x] ¿Consideras que el proyecto necesita más pruebas unitarias? 
 --- 
 
-- [ ] ¿Consideras que deberías escribir pruebas para implementar el requerimiento obligatorio?
+- [x] ¿Consideras que deberías escribir pruebas para implementar el requerimiento obligatorio?
 
 ---
 - [x] ¿Consideras que deberías seguir alguna estrategia de versionamiento? 
