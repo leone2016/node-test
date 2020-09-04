@@ -9,7 +9,7 @@ const filter = require('./lib/filter');
 
 //configuration
 const app = express();
-const port = 5000
+const port = 3000
 
 //basic auth
 app.use(basicAuth({
@@ -46,7 +46,7 @@ app.get('/data/emailFilter', (req, res) => {
 });
 /**
 /**
- * get user information xxxx xxxx 
+ * get user information by kind
  */
 app.get('/data/emailFilter/:kind', (req, res) => {
   const data = file.LoadFromLocal()
